@@ -50,7 +50,7 @@ transition: transform 0.1s;
 
 .graficos-container {
     margin: 5rem;
-    padding: 4rem;
+    padding-left: 4rem;
    }
 
 .graficos-container_texto {
